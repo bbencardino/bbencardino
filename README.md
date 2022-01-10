@@ -1,4 +1,10 @@
-### Hi there!   I'm Isabella Bencardino
+## Hiya! I'm Isabella Bencardino ✨ a woman mobile developer
+
+𝙰 𝚂𝙾𝙵𝚃𝚆𝙰𝚁𝙴  𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁𝙸𝙽𝙶  𝚂𝚃𝚄𝙳𝙴𝙽𝚃
+
+𝟷𝟿 𝙱𝚁𝙰𝚉𝙸𝙻𝙸𝙰𝙽
+
+
 
 
 - 🤓 I’m currently working on my side projects
@@ -13,7 +19,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Bella-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bella-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Bella-Gif" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/930211195988869162/930211291233144892/Webp.net-gifmaker.gif">
 </div>
   
   ##
