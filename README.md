@@ -8,7 +8,7 @@
 
 
 - 🤓 I’m currently working on my side projects
-- 🕊 I’m currently learning Swift, SwiftUI and Python
+- 🕊 I’m currently learning Swift and SwiftUI 
 - ✨ My pronoums are she/her
 
 <div align="center">
