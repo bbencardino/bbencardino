@@ -1,4 +1,4 @@
-## Hiya! I'm Isabella Bencardino ✨ a woman iOS developer
+## Hiya! I'm Isabella Bencardino ✨ an iOS developer
 
 𝙰 𝚂𝙾𝙵𝚃𝚆𝙰𝚁𝙴  𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁𝙸𝙽𝙶  𝚂𝚃𝚄𝙳𝙴𝙽𝚃
 
