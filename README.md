@@ -1,15 +1,13 @@
 ## Hiya! I'm Isabella Bencardino ✨ an iOS developer
 
-𝙰 𝚂𝙾𝙵𝚃𝚆𝙰𝚁𝙴  𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁𝙸𝙽𝙶  𝚂𝚃𝚄𝙳𝙴𝙽𝚃
-
-𝙱𝚁𝙰𝚉𝙸𝙻𝙸𝙰𝙽
+𝙰 𝚂𝙾𝙵𝚃𝚆𝙰𝚁𝙴  𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁𝙸𝙽𝙶  𝚂𝚃𝚄𝙳𝙴𝙽𝚃, 𝙱𝚁𝙰𝚉𝙸𝙻𝙸𝙰𝙽
 
 
 
 
 - 🤓 I’m currently working on my side projects
-- 🕊 I’m currently learning Swift and SwiftUI 
-- ✨ My pronoums are she/her
+- 🕊 I’m currently learning Swift and UIKit
+- ✨ My pronouns are she/her
 
 <div align="center">
   <a href="https://github.com/bbencardino">
