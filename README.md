@@ -4,7 +4,6 @@
 
 
 
-- 🤓 I’m currently working at Candyspace
 - 🕊 I’m currently learning Swift and UIKit
 - ✨ My pronouns are she/her
 
