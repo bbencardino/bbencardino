@@ -4,7 +4,7 @@
 
 
 
-- 🤓 I’m currently working on projects from Udacity's Nanodegree
+- 🤓 I’m currently working at Candyspace
 - 🕊 I’m currently learning Swift and UIKit
 - ✨ My pronouns are she/her
 
