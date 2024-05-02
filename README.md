@@ -3,8 +3,8 @@
 
 
 
-
-- 🕊 I’m currently learning Swift and UIKit
+- 🖥️ iOS Developer ITVX
+- 🕊 I’m currently learning SwiftUI
 - ✨ My pronouns are she/her
 
 <div align="center">
