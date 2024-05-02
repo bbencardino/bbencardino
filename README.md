@@ -14,7 +14,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Bella-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bella-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="right" alt="Bella-Gif" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/930211195988869162/930211291233144892/Webp.net-gifmaker.gif">
 </div>
   
   ##
