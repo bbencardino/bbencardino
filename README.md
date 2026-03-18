@@ -4,7 +4,7 @@
 
 
 - 🖥️ iOS Developer ITVX
-- 🕊 I’m currently learning SwiftUI
+- 🕊 SwiftUI and UIKit
 - ✨ My pronouns are she/her
 
 <div align="center">
